@@ -1,20 +1,20 @@
 package com.lxgzhw.basic;
 
-public class HelloWorld {// ÉùÃ÷ÀàHelloWorld
+public class HelloWorld {// å£°æ˜ç±»HelloWorld
 
-	// Ö÷·½·¨,Îª³ÌĞòµÄÈë¿Ú
-	// ³ÌĞòµÄÖ´ĞĞ´Ómain¿ªÊ¼,main½áÊøÔò³ÌĞò½áÊø
+	// ä¸»æ–¹æ³•,ä¸ºç¨‹åºçš„å…¥å£
+	// ç¨‹åºçš„æ‰§è¡Œä»mainå¼€å§‹,mainç»“æŸåˆ™ç¨‹åºç»“æŸ
 	public static void main(String[] args) {
-		// ´òÓ¡Ò»¾ä»°
-		// ctrl+f11ÔËĞĞ³ÌĞò
+		// æ‰“å°ä¸€å¥è¯
+		// ctrl+f11è¿è¡Œç¨‹åº
 		System.out.println("hello world");
 
-		// Êä³ö»»ĞĞ
-		System.out.println("Êä³ö²¢»»ĞĞ");
+		// è¾“å‡ºæ¢è¡Œ
+		System.out.println("è¾“å‡ºå¹¶æ¢è¡Œ");
 
-		// Êä³ö²»»»ĞĞ
-		System.out.print("Êä³ö");
-		System.out.print("²»»»ĞĞ");
+		// è¾“å‡ºä¸æ¢è¡Œ
+		System.out.print("è¾“å‡º");
+		System.out.print("ä¸æ¢è¡Œ");
 	}
 
 }
