@@ -128,6 +128,7 @@ JVM加载.class并运行,生成可执行文件(0和1)
 - 服务器
 ![服务器](assets/服务器.jpg)
 - `JVM`:`java`虚拟机
+  - 可看作一个运行在操作系统上的程序
   - 作用:`加载.class并运行`
 
 - `JRE`:`java`运行环境
@@ -235,6 +236,9 @@ Intellij Idea的优点
 Intellij Idea对比Eclipse
 - 收费工具（学生和教学与开源项目免费，商业应用收费）
 - 流畅运行所需的计算机配置更高
+
+官方网站地址
+https://www.jetbrains.com.cn/idea/
 
 ## 014.工作空间
 
